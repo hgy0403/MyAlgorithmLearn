@@ -39,3 +39,14 @@ https://www.zhihu.com/question/62482926/answer/625352436
 
 英文原版
 链接：https://pan.baidu.com/s/1LmuVanVk6yN_-1hxl-WPkg 提取码：1cnt
+
+# 深度学习网络的一些基础知识
+https://github.com/DenseAI/awesome-deep-learning
+# 基础视频和代码以及实践
+https://github.com/qingchunlizhi/awesome-dl-course
+
+# 这个没有cv，其他内容不少
+https://github.com/ZhengfengRao/AI-docs
+
+# 深度学习资料汇总中
+https://github.com/Robinwho/Deep-Learning
