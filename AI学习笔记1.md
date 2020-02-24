@@ -53,3 +53,12 @@ https://github.com/Robinwho/Deep-Learning
 
 # 日常资料收集汇总
 https://github.com/luoqiuluoqiu/note
+
+# 深度学习入门信息汇总-知乎
+https://www.zhihu.com/question/26006703
+
+# 深度学习经典书籍
+https://github.com/exacity/deeplearningbook-chinese
+
+# 卷积网络简介
+https://zhuanlan.zhihu.com/p/25249694
