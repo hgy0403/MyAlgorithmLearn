@@ -50,3 +50,6 @@ https://github.com/ZhengfengRao/AI-docs
 
 # 深度学习资料汇总中
 https://github.com/Robinwho/Deep-Learning
+
+# 日常资料收集汇总
+https://github.com/luoqiuluoqiu/note
