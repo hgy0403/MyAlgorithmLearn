@@ -65,3 +65,8 @@ https://github.com/exacity/deeplearningbook-chinese
 # 卷积网络简介
 https://zhuanlan.zhihu.com/p/25249694
 
+# 视频课程
+https://github.com/kmario23/deep-learning-drizzle
+
+# 2019cv有源码的论文
+https://www.paperdigest.org/2019/10/iccv-2019-papers-with-code-data/?from=timeline&isappinstalled=0
