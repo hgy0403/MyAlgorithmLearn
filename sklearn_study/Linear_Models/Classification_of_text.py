@@ -100,7 +100,8 @@ print(categories if categories else "all")
 data_train = fetch_20newsgroups(subset='train', categories=categories,
                                 shuffle=True, random_state=42,
                                 remove=remove)
-
+# print(str(data_train.data).split('\n')[0])
+# print(data_train.target)
 data_test = fetch_20newsgroups(subset='test', categories=categories,
                                shuffle=True, random_state=42,
                                remove=remove)
@@ -136,6 +137,7 @@ else:
     vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5,
                                  stop_words='english')
     X_train = vectorizer.fit_transform(data_train.data)
+
 duration = time() - t0
 print("done in %fs at %0.3fMB/s" % (duration, data_train_size_mb / duration))
 print("n_samples: %d, n_features: %d" % X_train.shape)
